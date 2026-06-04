@@ -14,7 +14,7 @@ Robot autónomo desarrollado para la experiencia educativa de Robótica
 | Sensores de línea | QTR-8A |
 | Motores | 2 motores N20 |
 | Driver de motores | L298N |
-| Alimentación | 4 baterías recargables |
+| Alimentación | 4 baterías recargables, 2 powerbanks |
 | Cámara | ESP32-CAM |
 | Sistema de arranque | Sensor LDR |
 | Tipo de control | PD |
