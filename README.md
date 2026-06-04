@@ -6,7 +6,7 @@
 ## Robot autónomo desarrollado para la experiencia educativa de Robótica
 
 
-## Especificaciones Generales
+### Especificaciones Generales
 | Característica | Valor |
 |---------------|--------|
 | Peso total | 543 g |
