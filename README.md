@@ -1,9 +1,9 @@
-## Carrito Seguidor de Línea
+# Carrito Seguidor de Línea
 
-# Universidad Veracruzana  
-# Ingeniería en Instrumentación Electrónica
+## Universidad Veracruzana  
+## Ingeniería en Instrumentación Electrónica
 
-# Robot autónomo desarrollado para la experiencia educativa de Robótica
+## Robot autónomo desarrollado para la experiencia educativa de Robótica
 
 
 ## Especificaciones Generales
