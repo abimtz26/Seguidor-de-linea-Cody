@@ -34,10 +34,10 @@
 
 ### Estructura del Repositorio
 
-- `/Código` → Firmware del ESP32.
-- `/Documentación` → Reportes técnicos.
-- `/Evidencias` → Fotografías y videos del robot.
-- `/Simulación` → Archivos de CoppeliaSim.
+- Código → Firmware del ESP32.
+- Documentación → Reportes técnicos.
+- Evidencias → Fotografías y videos del robot.
+- Simulación → Archivos de CoppeliaSim.
 
 ### Documentación
 
