@@ -7,15 +7,17 @@ Robot autónomo desarrollado para la experiencia educativa de Robótica
 
 
 ## Especificaciones Generales
-Peso total: 543 g 
-Microcontrolador: ESP32 DevKit V1 
-Sensores de línea: QTR-8A
-Motores: 2 motores N20
-Driver de motores: L298N
-Alimentación: 4 baterías recargables, 2 power Banks
-Cámara: ESP32-CAM
-Sistema de arranque: Sensor LDR
-Tipo de control: PID
+| Característica | Valor |
+|---------------|--------|
+| Peso total | 543 g |
+| Microcontrolador | ESP32 DevKit V1 |
+| Sensores de línea | QTR-8A |
+| Motores | 2 motores N20 |
+| Driver de motores | L298N |
+| Alimentación | 4 baterías recargables |
+| Cámara | ESP32-CAM |
+| Sistema de arranque | Sensor LDR |
+| Tipo de control | PD |
 
 
 ## Dimensiones
