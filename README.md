@@ -17,7 +17,7 @@ Robot autónomo desarrollado para la experiencia educativa de Robótica
 | Alimentación | 4 baterías recargables, 2 powerbanks |
 | Cámara | ESP32-CAM |
 | Sistema de arranque | Sensor LDR |
-| Tipo de control | PD |
+| Tipo de control | PID |
 
 
 ## Dimensiones
