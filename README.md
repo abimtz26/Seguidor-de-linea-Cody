@@ -20,11 +20,11 @@
 | Tipo de control | PID |
 
 
-## Dimensiones
+### Dimensiones
 - Largo: 22 cm
 - Ancho: 15 cm
 
-## Características
+### Características
 
 - Seguimiento autónomo de línea.
 - Arranque automático mediante detección de luz.
@@ -32,18 +32,18 @@
 - Chasis fabricado en acrílico cortado por láser.
 - Control diferencial basado en sensores infrarrojos.
 
-## Estructura del Repositorio
+### Estructura del Repositorio
 
 - Codigo → Firmware del ESP32.
 - Evidencias → Fotografías y videos del robot.
 - Documentacion → Reportes técnicos.
 - Simulacion→ Archivos de CoppeliaSim.
 
-## Documentación
+### Documentación
 
 La descripción completa del diseño mecánico, modelado, control, ensamblaje, pruebas y resultados se encuentra en el reporte técnico incluido en este repositorio.
 
-## Integrantes
+### Integrantes
 
 - León Felipe Amaro Hernández
 - Antonio de Jesús Becerril Olivo
